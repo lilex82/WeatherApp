@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weather App</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
+  <link href="./Public/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <main class="main-container">
+    <header>
+      <div class="search-Bar">
+        <input type="text" autocomplete="off" class="search-box" placeholder="Search for a city..." />
+        <button class="btn" type="button" id="button-addon2">Search</button>
+
+      </div>
+    </header>
+
+    <div class="location">
+      <h1 class="city">São Paulo, Brazil</h1>
+      <h2 class="date">Friday 13th August</h2>
+    </div>
+
+    <div class="current-temperature">
+      <div class="temperature">
+        <div>21 </div>
+        <span>°c</span>
+      </div>
+      <div class="container-image">
+        <img src="./Public/images/unknown.png">
+      </div>
+      <div class="summary">Mostly Sunny</div>
+    </div>
+
+    <div class="current-stats">
+      <div>
+        <div class="low-high">14°/23°</div>
+        <div class="current-stats__label">Low/High</div>
+      </div>
+      <div>
+        <div class="wind">7mph</div>
+        <div class="current-stats__label">Wind</div>
+      </div>
+      <div>
+        <div class="humidity">0%</div>
+        <div class="current-stats__label">Humidity</div>
+      </div>
+
+    </div>
+
+  </main>
+</body>
+<script src="./Public/script.js"></script>
+<script src="https://kit.fontawesome.com/f0e17cbf2f.js" crossorigin="anonymous"></script>
+
+</html>
