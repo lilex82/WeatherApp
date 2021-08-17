@@ -1,14 +1,16 @@
-PROJECT
+# PROJECT
 App to check for weather updates. 
 Integrated OpenWeatherMap APIs 
 https://home.openweathermap.org/
 
-PROGRAMING LANGUAGES 
+# PROGRAMING LANGUAGES 
 HTML5
 CSS3
 JavaScript
 
-App LINK
+# App LINK
 Link to app :WEATHER-APP
 
-SCREENSHOT
+# SCREENSHOT
+<img src="/Weather/Public/AppShots/Screenshot%20(576).png">
+<img src="/Weather/Public/AppShots/Screenshot%20(577).png">
