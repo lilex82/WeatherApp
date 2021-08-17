@@ -12,5 +12,5 @@ JavaScript
 Link to app :https://lilex82.github.io/WeatherApp/
 
 # SCREENSHOT
-<img src="/Public/AppShots/Screenshot%20(576).png">
-<img src="/Public/AppShots/Screenshot%20(577).png">
+<img src="/Public/screenshot/Screenshot%20(576).png">
+<img src="/Public/screenshot/Screenshot%20(577).png">
